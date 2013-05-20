@@ -3,7 +3,7 @@
 *
 *	Simple Library for using SPI with an atmega 2560
 *
-*	Copyright (C) 2013  Andrew Evans
+*	Copyright (C) 2013  Andrew Evans & Shawn Stoute
 *
 *	This program is free software: you can redistribute it and/or modify
 *	it under the terms of the GNU General Public License as published by
